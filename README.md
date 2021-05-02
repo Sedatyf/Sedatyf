@@ -1,11 +1,16 @@
-### Hi there 👋
+### Hi there
+
+I'm using Java for my work and I recently learned Python. 
+I'm interested in a lot of topics in IT like cybersecurity, DevOps, coding, etc. as you can see on my projects listed below:
+- I made some cybersecurity 
+- I made some Python scripts for learning purposes. Recently, I'm trying to learn PySide
+- Right now, I’m currently contributing on [AzerothCore](https://github.com/azerothcore) as a game tester and maybe, I'll try to contribute on patching Database.
 
 <!--
 **Sedatyf/Sedatyf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
