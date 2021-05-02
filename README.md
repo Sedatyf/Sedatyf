@@ -2,9 +2,10 @@
 
 I'm using Java for my work and I recently learned Python. 
 I'm interested in a lot of topics in IT like cybersecurity, DevOps, coding, etc. as you can see on my projects listed below:
-- I made some cybersecurity 
+- I made some beginner cybersecurity scripts in Python like ARP Spoofing
 - I made some Python scripts for learning purposes. Recently, I'm trying to learn PySide
 - Right now, I’m currently contributing on [AzerothCore](https://github.com/azerothcore) as a game tester and maybe, I'll try to contribute on patching Database.
+- In a near futur I'd like to do some DevOps project
 
 <!--
 **Sedatyf/Sedatyf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
