@@ -1,10 +1,9 @@
 ### Hi there
 
-I'm using Java for my work and I also know Python. 
+I'm using C# for my work and I also know Python. I'm used to code in Java. 
 I'm interested in a lot of topics in IT like cybersecurity, DevOps, coding, etc. as you can see on my projects listed below:
 - I made some beginner cybersecurity scripts in Python like ARP Spoofing
 - I made some Python scripts and Python apps for learning purposes and for fun
-- I'm currently learning C# for my new job
 - In a near futur I'd like to do some DevOps project
 - I also want to learn front end dev
 
