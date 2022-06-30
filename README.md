@@ -1,4 +1,4 @@
-### Hi there
+### Hi there 👋
 
 I'm using C# for my work and I also know Python. I'm used to code in Java. I recently learned Javascript.
 I'm interested in a lot of topics in IT like cybersecurity, DevOps, coding, etc. as you can see on my projects listed below:
